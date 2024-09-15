@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+@media (max-width: 576px) {
+    .col-sm-6 .mbc {
+      margin-bottom: 15px;
+    }
+}
